@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "63442880057",
+    "firebase_url": "https://signin-9f6a5.firebaseio.com",
+    "project_id": "signin-9f6a5",
+    "storage_bucket": "signin-9f6a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63442880057:android:bef6cb2594d28b86ebafe8",
+        "android_client_info": {
+          "package_name": "com.example.hellosignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63442880057-f2d21u221sl81athqf200oroghgubsbp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hellosignin",
+            "certificate_hash": "ec548413f891d178a52f1dbe9f6c71eb04f77550"
+          }
+        },
+        {
+          "client_id": "63442880057-43lj4jg9u9et7p7jgijh7psf4pe54of4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA86IJqTV-Udoh3EoLadS7puSMxKPaVdUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63442880057-43lj4jg9u9et7p7jgijh7psf4pe54of4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
